@@ -1,0 +1,9 @@
+{
+	"name": "dinethazuredatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9d5ec67-7178-4f05-9397-6eb797f1ff94",
+		"tenantId": "72424744-eab4-499d-b567-5c4e53a8bf35"
+	}
+}
