@@ -14,7 +14,7 @@
     {
         "schema": "dbo",
         "table": "DimDate",
-        "cdc_col": "updated_at",
+        "cdc_col": "date",
         "from_date": ""
     },
     {
@@ -25,7 +25,7 @@
     },
     {
         "schema": "dbo",
-        "table": "FactStreamgit commit -m """,
+        "table": "FactStream",
         "cdc_col": "updated_at",
         "from_date": ""
     }
