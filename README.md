@@ -69,4 +69,4 @@ PySpark · SQL · Jinja2 · Logic Apps
 
 ### Resource group
 
-<img width="6952" height="2768" alt="Image" src="https://github.com/user-attachments/assets/74ad7e8a-322c-432e-a5c2-ac253b37b3cc" />
+<img width="5120" height="3936" alt="Image" src="https://github.com/user-attachments/assets/9e80a7be-8ddc-44b7-8d0b-934d5fdf4417" />
